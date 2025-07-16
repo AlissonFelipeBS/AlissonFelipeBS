@@ -39,12 +39,10 @@
 ## Portfolio
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://sites.google.com/view/portfolioalissonfelipe/home)
 
-<!-- GIF -->
-<div>
-  <p align="left">
-    <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-  </p>
-</div>
+<!-- Notebook Illustration -->
+<p align="right">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400" alt="Notebook Illustration" />
+</p>
 
 ## 🔥 Skills
 <div style="display:flex; flex-wrap: wrap; justify-content: space-between;">
