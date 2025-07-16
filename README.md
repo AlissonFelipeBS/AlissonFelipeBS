@@ -2,83 +2,82 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+my+name+is+Alisson+Felipe!" />
 </h1>
 
-<p align="center">
-  <img alt="Power BI" height="23" width="20" src="https://github.com/marclelijveld/Power-BI-Icons-Archived/blob/master/General%20Icons%20PNG/pbix.png" />
-  Business Intelligence Analyst | Power BI, Python & SQL  
+<!-- Presentation -->
+<p>
+  - <img align="center" alt="Power BI" height="23" width="20" src="https://github.com/marclelijveld/Power-BI-Icons-Archived/blob/master/General%20Icons%20PNG/pbix.png"/>  
+  Business Intelligence Professional | Python, SQL and Power BI.
 </p>
 
-<p align="center">
-  🎓 Physicist (IFSP) | MBA in Data Science & Analytics (USP/Esalq) | Studying Systems Analysis & Development  
+<p>
+  - 🔭 Physicist from IFSP, currently studying Technologist in Systems Analysis and Development (IFSP)  
+  and Postgraduate in Data Science and Analytics (MBA USP/Esalq - in progress).  
+  Brazilian passionate about Astronomy and Technology, using programming and data intelligence to solve complex problems.
 </p>
 
-<p align="center">
-  🚀 Passionate about technology, astronomy, and solving complex problems with data.
-</p>
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
 
----
+  - 💬 I am 25 years old, living in Brazil. I have experience with SQL, Python, data analysis and dashboard creation with Power BI.
 
-## 👨‍💻 About Me
+  - ⚡ I like studying, going out with my wife and daughter, watching series, playing football and going to the gym.
+</details>
 
-- 💬 25 years old, living in Brazil  
-- 🛠 Experience in SQL, Python, data analysis, and Power BI dashboards  
-- ⚡ Enjoy studying, spending time with family, watching series, playing football, and working out  
-
----
-
-## 🔗 Connect with Me
-
+<!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe.b08/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-brand%C3%A3o-04204a176/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/551799667210)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisson.fbrandao@gmail.com)
 
----
+<!-- GithubStats -->
+<div align="center" style="margin-bottom:50px">
+  <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AlissonFelipeBS&theme=radical&mode=weekly" />
+  <img width="40%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=AlissonFelipeBS&show_icons=true&theme=radical&layout=compact" />
+</div>
 
-## 🚀 Portfolio
-
+<!-- PORTFOLIO -->
+## Portfolio
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://sites.google.com/view/portfolioalissonfelipe/home)
 
----
+<!-- GIF -->
+<div>
+  <p align="left">
+    <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  </p>
+</div>
 
 ## 🔥 Skills
+<div style="display:flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  </div>
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+    <img align="center" alt="PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
+    <img align="center" alt="Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+  </div>
+  <div style="flex-basis: 48%; margin-top:20px;">
+    <h3>Libraries</h3>
+    <img align="center" alt="NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+    <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" >
+    <img align="center" alt="Seaborn" height="30" width="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" >
+  </div>
+</div>
 
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" alt="JavaScript" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" alt="Android Studio" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" alt="Pandas" /></td>
-    <td><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" alt="Seaborn" /></td>
-    <td></td><td></td>
-  </tr>
-</table>
+<br>
 
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+for+attention!;" />
+</h1>
 
-## 🎯 Highlights
-
-- 📊 [Power BI Sales Dashboard](https://sites.google.com/view/portfolioalissonfelipe/home) — KPI visualization with RLS and SQL integration  
-- 🧠 [Python Exploratory Data Analysis](https://github.com/AlissonFelipeBS) — Data cleaning and visualization with Pandas and Seaborn  
-
----
-
-## 🙏 Thank you for visiting!
-
----
-
-<!-- Snake animation just before GitHub contributions graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlissonFelipeBS/AlissonFelipeBS/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlissonFelipeBS/AlissonFelipeBS/output/github-contribution-grid-snake.svg">
