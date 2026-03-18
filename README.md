@@ -18,7 +18,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 25 years old, living in Brazil. I have experience with SQL, Python, data analysis and dashboard creation with Power BI.
+  - 💬 I am 27 years old, living in Brazil. I have experience with SQL, Python, data analysis and dashboard creation with Power BI.
 
   - ⚡ I like studying, going out with my wife and daughter, watching series, playing football and going to the gym.
 </details>
