@@ -18,6 +18,7 @@ Data Analyst focused on transforming data into strategic insights for decision-m
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/felipe-brand%C3%A3o-04204a176/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:alisson.fbrandao@gmail.com)
+[![Portfólio Power BII](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://sites.google.com/view/portfolioalissonfelipe/home)
 
 ---
 
@@ -41,18 +42,6 @@ Data Analyst focused on transforming data into strategic insights for decision-m
 * Feature engineering and classification models applied
 
 🔗 **Repository:** https://github.com/AlissonFelipeBS/TCC-churn-telco
-
----
-
-## 📊 Power BI Portfolio
-
-Collection of dashboards focused on cost analysis, performance tracking and business insights.
-
-* 📈 KPI monitoring and executive dashboards
-* 🏗️ Cost analysis in infrastructure projects
-* 📊 Data modeling and visualization best practices
-
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://sites.google.com/view/portfolioalissonfelipe/home)
 
 ---
 
