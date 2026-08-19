@@ -1,48 +1,56 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Data+Analyst;Power+BI+%7C+SQL+%7C+Python" />
-</h1>
+# Olá, eu sou Alisson Felipe Brandão 👋
 
----
+## Analista de Dados | Power BI • SQL • Python
 
-## 🚀 About Me
+Transformo dados operacionais em indicadores, análises e ferramentas que apoiam decisões de negócio. Minha experiência combina **análise de custos de infraestrutura**, construção de **dashboards executivos** e desenvolvimento de projetos de **Data Science**.
 
-Data Analyst focused on transforming data into strategic insights for decision-making.
+- 📊 Dashboards e indicadores para acompanhamento de custos
+- 🏗️ Conhecimento de negócio em infraestrutura e engenharia
+- 🐍 Análise e modelagem com Python
+- 🗄️ Consultas, tratamento e exploração de dados com SQL
+- 🎓 MBA em Data Science & Analytics — USP/Esalq (em andamento)
+- 🎓 Tecnologia em Análise e Desenvolvimento de Sistemas — IFSP (em andamento)
 
-* 📊 Experience with Power BI dashboards and cost analysis
-* 🧠 Python (Pandas, Matplotlib) and SQL
-* 🏗️ Experience with infrastructure and engineering cost analysis
-* 🎓 MBA in Data Science & Analytics (USP/Esalq - in progress)
-* 🎓 Technologist in Systems Analysis and Development (IFSP - in progress)
+## Projetos em destaque
 
-## 📫 Contact
+### [Predição de Churn em Telecom](https://github.com/AlissonFelipeBS/TCC-churn-telco)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/felipe-brand%C3%A3o-04204a176/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:alisson.fbrandao@gmail.com)
-[![Portfólio Power BII](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://sites.google.com/view/portfolioalissonfelipe/home)
+Projeto de conclusão do MBA aplicado à identificação de clientes com maior propensão ao cancelamento.
 
----
+- Análise de 7.032 registros da base IBM Telco Customer Churn
+- Preparação dos dados e validação estratificada
+- Comparação entre Regressão Logística, Random Forest e Gradient Boosting
+- Priorização de recall para apoiar ações preventivas de retenção
+- Identificação do tipo de contrato como principal fator associado ao churn
 
-## 📌 Featured Projects
+**Tecnologias:** Python, pandas, scikit-learn, Matplotlib e Seaborn.
 
-### 📊 Pavement Cost Analytics
+### [Pavimentação Analytics](https://github.com/AlissonFelipeBS/pavimentacao_analytics)
 
-* Dashboard for cost analysis in infrastructure projects
-* KPI creation and executive-level insights
-* Focus on supporting decision-making
+Dashboard interativo para elaborar e analisar orçamentos de pavimentação.
 
-🔗 **Live Demo:** https://paving-analytics.streamlit.app/ <br>
-🔗 **Repository:** https://github.com/AlissonFelipeBS/pavimentacao_analytics
+- Cálculo de quantidades a partir da área e espessura
+- Composição de custos por material ou serviço
+- Aplicação de BDI
+- Indicadores de custo direto, custo total e preço por metro quadrado
+- Visualização da distribuição dos custos
 
----
+**Tecnologias:** Python, Streamlit, pandas e Plotly.
 
-### 🔒 Churn Prediction (Telecom)
+[▶ Acessar demonstração](https://paving-analytics.streamlit.app/)
 
-* Machine Learning model for churn prediction
-* Developed during MBA (USP/Esalq)
-* Feature engineering and classification models applied
+## Competências
 
-🔗 **Repository:** https://github.com/AlissonFelipeBS/TCC-churn-telco
+| Área | Tecnologias e práticas |
+| --- | --- |
+| Business Intelligence | Power BI, dashboards, KPIs e análise de custos |
+| Dados | SQL, Python, pandas e NumPy |
+| Data Science | scikit-learn, classificação, regressão e validação |
+| Visualização | Power BI, Plotly, Matplotlib e Seaborn |
+| Desenvolvimento | Git, GitHub, Jupyter Notebook e Streamlit |
 
----
+## Contato
 
-## 🔥 Skills <div style="display:flex; flex-wrap: wrap; justify-content: space-between;"> <div style="flex-basis: 48%;"> <h3>Programming Languages</h3> <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> </div> <div style="flex-basis: 48%;"> <h3>Tools & Frameworks</h3> <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"> <img align="center" alt="PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"> <img align="center" alt="Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"> </div> <div style="flex-basis: 48%; margin-top:20px;"> <h3>Libraries</h3> <img align="center" alt="NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"> <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" > <img align="center" alt="Seaborn" height="30" width="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" > </div> </div> <br> <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+for+attention!;" /> </h1> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlissonFelipeBS/AlissonFelipeBS/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlissonFelipeBS/AlissonFelipeBS/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlissonFelipeBS/AlissonFelipeBS/output/github-contribution-grid-snake.svg"> </picture>
+- [LinkedIn](https://www.linkedin.com/in/felipe-brand%C3%A3o-04204a176/)
+- [Portfólio Power BI](https://sites.google.com/view/portfolioalissonfelipe/home)
+- [E-mail](mailto:alisson.fbrandao@gmail.com)
