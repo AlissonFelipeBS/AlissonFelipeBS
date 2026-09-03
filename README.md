@@ -8,7 +8,8 @@ Transformo dados operacionais em indicadores, análises e ferramentas que apoiam
 - 🏗️ Conhecimento de negócio em infraestrutura e engenharia
 - 🐍 Análise e modelagem com Python
 - 🗄️ Consultas, tratamento e exploração de dados com SQL
-- 🎓 MBA em Data Science & Analytics — USP/Esalq (em andamento)
+- 🎓 Licenciado em Física - IFSP
+- 🎓 MBA em Data Science & Analytics — USP/Esalq
 - 🎓 Tecnologia em Análise e Desenvolvimento de Sistemas — IFSP (em andamento)
 
 ## Projetos em destaque
